@@ -1,6 +1,6 @@
-# Student performance factors data preprocessing
+# Student performance factors linear regression
 
-This repository performs preprocessing techniques on a Kaggle dataset that includes data on a sample of studnets, and how a set of variables affected the target exam score
+This repository performs preprocessing techniques and linear regression on a Kaggle dataset that includes data on a sample of studnets, and how a set of variables affected the target exam score
 
 **Link to the [dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)**
 
