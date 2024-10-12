@@ -25,4 +25,4 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-4. Navigate to the src/data_preprocessing.ipynb file
+4. Navigate to the src\student_linear_model.ipynb file
